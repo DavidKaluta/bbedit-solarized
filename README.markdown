@@ -1,5 +1,5 @@
 ---
-Title: Solarized Colorscheme for BBEdit and TextWrangler
+Title: Solarized Colorscheme for BBEdit
 Description: Precision colors for machines and people
 Author: Rui Carmo
 Created:  2011 Apr 07
